@@ -1,6 +1,6 @@
 # Banking App
 
-Designed and developed a robust online banking application using `<Java>`, `<Spring Boot>`, `<Postman API>`, and `<MySQL>`, enabling users to manage accounts, view transactions, and transfer funds securely.
+Designed and implemented a scalable online banking application with key features including account management, transaction history, and utilizing Java, Spring Boot, and Postman API to deliver a robust and efficient banking experience.
 
 ### Key Features:
 
