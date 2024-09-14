@@ -46,7 +46,7 @@ Designed and implemented a scalable online banking application with key features
 
 ### Getting Started:
 
-1. Clone the repository: git clone https://github.com/rushikeshtagadkar/Banking-App.git
+1. Clone the repository: ```git clone https://github.com/rushikeshtagadkar/Banking-App.git```
 2. Install dependencies: mvn install (or gradle build)
 3. Run the application: mvn spring-boot:run (or gradle bootRun)
-4. Access the application: http://localhost:8080
+4. Access the application: ```http://localhost:8080```
